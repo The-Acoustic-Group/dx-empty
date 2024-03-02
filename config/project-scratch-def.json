@@ -1,7 +1,9 @@
 {
-  "orgName": "my company",
-  "edition": "Developer",
-  "features": ["EnableSetPasswordInApi"],
+  "orgName": "Acoustic Scratch",
+  "edition": "Enterprise",
+  "features": ["EnableSetPasswordInApi", "HighVelocitySales", "LightningSalesConsole", "ContactsToMultipleAccount", 
+    "PipelineInspection", "SalesCloudEinstein"],
+  "hasSampleData": true,
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
