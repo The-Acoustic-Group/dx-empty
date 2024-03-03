@@ -2,7 +2,7 @@
   "orgName": "Acoustic Scratch",
   "edition": "Enterprise",
   "features": ["EnableSetPasswordInApi", "HighVelocitySales", "LightningSalesConsole", "ContactsToMultipleAccounts", 
-    "PipelineInspection", "SalesCloudEinstein"],
+    "PipelineInspection", "SalesCloudEinstein", "ServiceCloud"],
   "hasSampleData": true,
   "settings": {
     "lightningExperienceSettings": {
